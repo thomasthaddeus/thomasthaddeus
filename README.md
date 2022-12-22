@@ -5,7 +5,7 @@
 -->
 
 <div>  
-<p><script src="https://tryhackme.com/badge/1510401"></script></p>
+  <script src="https://tryhackme.com/badge/1510401"></script>
 </div>
   
 - 🔭 I’m currently working on building my website staring me!
