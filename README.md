@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building my website staring me! [Supply Chain Transportation Fixed](https://github.com/thomasthaddeus/thomasthaddeus/edit/main/README.md)
+- 🔭 I’m currently working on building my website staring me!
 - 🌱 I’m currently neverendingly busy
 - 👯 I’m looking to collaborate on #Open Source Projects
 - 🤔 I’m looking for help with getting a website started as the folder structure is what I really want to nail down 
