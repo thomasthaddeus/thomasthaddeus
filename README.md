@@ -2,12 +2,10 @@
 
 <!--
 **thomasthaddeus/thomasthaddeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 <div>  
   <script src="https://tryhackme.com/badge/1510401"></script>
 </div>
--->  
-<img src="https://tryhackme-badges.s3.amazonaws.com/thaddeus.r.thoma.png" alt="TryHackMe" />
 
 - 🔭 I’m currently working on building my website staring me!
 - 🌱 I’m currently neverendingly busy
