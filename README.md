@@ -2,15 +2,20 @@
 
 ## 🔭 I'm currently working on
 
-- [automated text to voice program](github.com/thomasthaddeus/)
+- [automated text to voice program](https://github.com/thomasthaddeus/TTS-project)
 - 👯 I’m looking to collaborate on #OpenSourceProjects
 
 ## 🌱 I'm currently learning
 
 ## 📫 How to reach me:
 
-- [![![Email](mailto:thomasthaddeus@cityuniversity.org)](https://user-images.githubusercontent.com/92204097/198655718-ab18cb79-c196-4c26-af00-6275e398c73b.png)]
-- <img src="https://tryhackme-badges.s3.amazonaws.com/thaddeus.r.thoma.png?5" alt="TryHackMe">
+| _ | [Contact](https://linkedin.com/in/thaddeusthomas) |
+| ---- | ---- |
+| _ | [![![Email](mailto:thomasthaddeus@cityuniversity.org)](https://user-images.githubusercontent.com/92204097/198655718-ab18cb79-c196-4c26-af00-6275e398c73b.png)] |
+| _ | ![](https://img.shields.io/linkedin/LinkedIn-informational?style=social&url) |
+| _ | ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F) |
+| _ | ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/thaddeus.r.thoma.png?5) |
+
 
 ## 💼 Technical Skills
 
