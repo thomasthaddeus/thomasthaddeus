@@ -3,15 +3,15 @@
 ## 🔭 I'm currently working on
 
 - [automated text to voice program](https://github.com/thomasthaddeus/TTS-project)
-- 👯 I’m looking to collaborate on #OpenSourceProjects
+- 👯 I’m looking to collaborate on `@OpenSourceProjects`
 
 ## 🌱 I'm currently learning
 
 ## 📫 How to reach me:
 
-| _ | [Contact](https://linkedin.com/in/thaddeusthomas) |
-| ---- | ---- |
-| _ | [![![Email](mailto:thomasthaddeus@cityuniversity.org)](https://user-images.githubusercontent.com/92204097/198655718-ab18cb79-c196-4c26-af00-6275e398c73b.png)] |
+| _ | ![[Contact](https://linkedin.com/in/thaddeusthomas)](https://user-images.githubusercontent.com/92204097/233510772-1941fe0c-c501-4560-b184-4019a59c33a5.png) |
+| ---- | :---- |
+| _ | ![[Email](mailto:thomasthaddeus@cityuniversity.org)](https://user-images.githubusercontent.com/92204097/198655718-ab18cb79-c196-4c26-af00-6275e398c73b.png) |
 | _ | ![](https://img.shields.io/linkedin/LinkedIn-informational?style=social&url) |
 | _ | ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F) |
 | _ | ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/thaddeus.r.thoma.png?5) |
