@@ -14,7 +14,7 @@ python pyqt
 
 | ![[Contact](https://linkedin.com/in/thaddeusthomas)](https://user-images.githubusercontent.com/92204097/233510772-1941fe0c-c501-4560-b184-4019a59c33a5.png) |. | .|
 | ---- | :---- |---|
-| ![[Email](mailto:thomasthaddeus@cityuniversity.org)](https://user-images.githubusercontent.com/92204097/198655718-ab18cb79-c196-4c26-af00-6275e398c73b.png) | ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F) | ![[TryHackMe](https://tryhackme-badges.s3.amazonaws.com/thaddeus.r.thoma.png)](https://tryhackme.com/p/thaddeus.r.thoma)|
+| ![[Email](mailto:thomasthaddeus@cityuniversity.org)](https://user-images.githubusercontent.com/92204097/198655718-ab18cb79-c196-4c26-af00-6275e398c73b.png) | ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F) | ![[TryHackMe](https://tryhackme.com/p/thaddeus.r.thoma)](https://tryhackme-badges.s3.amazonaws.com/thaddeus.r.thoma.png)|
 
 ## 💼 Technical Skills
 
