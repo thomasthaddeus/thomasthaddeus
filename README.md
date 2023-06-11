@@ -43,8 +43,8 @@
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thomasthaddeus)](https://github.com/thomasthaddeus)
-\r
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thomasthaddeus)](https://github.com/thomasthaddeus) \
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasthaddeus&layout=compact)](https://github.com/thomasthaddeus)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=thomasthaddeus.visitor-badge)
