@@ -20,14 +20,13 @@
 - pyQT
 
 ## 📫 How to reach me:
+||
+---|---|---
+[![Contact](https://user-images.githubusercontent.com/92204097/233510772-1941fe0c-c501-4560-b184-4019a59c33a5.png)](https://linkedin.com/in/thaddeusthomas)|[![Email](https://user-images.githubusercontent.com/92204097/198655718-ab18cb79-c196-4c26-af00-6275e398c73b.png)](mailto:thomasthaddeus@cityuniversity.org)
 
-![[Contact](https://linkedin.com/in/thaddeusthomas)](https://user-images.githubusercontent.com/92204097/233510772-1941fe0c-c501-4560-b184-4019a59c33a5.png) 
+[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F)](https://twitter.com/ThaddeusMaxima)
 
-![[Email](mailto:thomasthaddeus@cityuniversity.org)](https://user-images.githubusercontent.com/92204097/198655718-ab18cb79-c196-4c26-af00-6275e398c73b.png)
-
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F)
-
-![[TryHackMe](https://tryhackme.com/p/thaddeus.r.thoma)](https://tryhackme-badges.s3.amazonaws.com/thaddeus.r.thoma.png)|
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/thaddeus.r.thoma.png)](https://tryhackme.com/p/thaddeus.r.thoma)
 
 ## 💼 Technical Skills
 
