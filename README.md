@@ -20,11 +20,9 @@
 - pyQT
 
 ## 📫 How to reach me:
-||
+LinkedIn|Email|Twitter
 ---|---|---
-[![Contact](https://user-images.githubusercontent.com/92204097/233510772-1941fe0c-c501-4560-b184-4019a59c33a5.png)](https://linkedin.com/in/thaddeusthomas)|[![Email](https://user-images.githubusercontent.com/92204097/198655718-ab18cb79-c196-4c26-af00-6275e398c73b.png)](mailto:thomasthaddeus@cityuniversity.org)
-
-[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F)](https://twitter.com/ThaddeusMaxima)
+[![Contact](https://user-images.githubusercontent.com/92204097/233510772-1941fe0c-c501-4560-b184-4019a59c33a5.png)](https://linkedin.com/in/thaddeusthomas)|[![Email](https://user-images.githubusercontent.com/92204097/198655718-ab18cb79-c196-4c26-af00-6275e398c73b.png)](mailto:thomasthaddeus@cityuniversity.org)|[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F)](https://twitter.com/ThaddeusMaxima)
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/thaddeus.r.thoma.png)](https://tryhackme.com/p/thaddeus.r.thoma)
 
@@ -46,4 +44,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasthaddeus&layout=compact)](https://github.com/thomasthaddeus)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=thomasthaddeus.visitor-badge)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thomasthaddeus.visitor-badge)
