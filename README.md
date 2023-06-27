@@ -1,11 +1,12 @@
 # Hi there 👋
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thomasthaddeus.visitor-badge)
 
 ## 🔭 I'm currently working on
 
 - [Python Program](https://github.com/thomasthaddeus/TTS-project) that automates text to voice using Azure.
 - [Neural Networks Data Pipeline](https://github.com/thomasthaddeus/NeuralNetworks)
 - [Algorithms Repository][alg-1]
-- [DS Club][ds-club]
+- [DS Club][ds-club] <!-- This link is bad and should be fixed soon -->
 - [cybersecurity club][cy-club]
 - <!--SQL Repository-->
 - <!--Python Collection of Scripts-->
@@ -44,14 +45,10 @@
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thomasthaddeus&show_icons=true&theme=gruvbox&langs_count=10)](https://github.com/thomasthaddeus)
-
+[![thad's github stats](https://github-readme-stats.vercel.app/api?username=thomasthaddeus&show_icons=true&theme=gruvbox&langs_count=10)](https://github.com/thomasthaddeus)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasthaddeus&theme=gruvbox)](https://github.com/thomasthaddeus)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thomasthaddeus.visitor-badge)
-
-![](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats)
+![Readme Stats](https://github-readme-stats.vercel.app/api/pin?username=thomasthaddeus&repo=neuralnetworks) ![Readme Stats](https://github-readme-stats.vercel.app/api/pin?username=thomasthaddeus&repo=.github)
 
 [alg-1]: https://github.com/thomasthaddeus/Data-Structures-Algorithms "Data structures &algorithms repository"
-[ds-club]: "This is a link to a data science club"
+[ds-club]: https://github.com/thomasthaddeus/Cy-Club-Template "This is a link to a data science club"
 [cy-club]: https://github.com/thomasthaddeus/Cy-Club-Template "This is a link to our cybersecurity club"
