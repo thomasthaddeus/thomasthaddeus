@@ -3,11 +3,13 @@
 ## 🔭 I'm currently working on
 
 - [Python Program](https://github.com/thomasthaddeus/TTS-project) that automates text to voice using Azure.
-- <!--Algorithms Repository-->
+- [Neural Networks Data Pipeline](https://github.com/thomasthaddeus/NeuralNetworks)
+- [Algorithms Repository][alg-1]
+- [DS Club][ds-club]
+- [cybersecurity club][cy-club]
 - <!--SQL Repository-->
 - <!--Python Collection of Scripts-->
 - <!--Docker Package for cybersecurity club website-->
-- [Neural Networks Data Pipeline](https://github.com/thomasthaddeus/NeuralNetworks)
 
 ## 👯 I’m looking to collaborate on 
 
@@ -18,11 +20,13 @@
 
 - C# Packaging
 - pyQT
+- ruby-on-rails
 
 ## 📫 How to reach me:
-LinkedIn|Email|Twitter
----|---|---
-[![Contact](https://user-images.githubusercontent.com/92204097/233510772-1941fe0c-c501-4560-b184-4019a59c33a5.png)](https://linkedin.com/in/thaddeusthomas)|[![Email](https://user-images.githubusercontent.com/92204097/198655718-ab18cb79-c196-4c26-af00-6275e398c73b.png)](mailto:thomasthaddeus@cityuniversity.org)|[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F)](https://twitter.com/ThaddeusMaxima)
+
+|LinkedIn|Email|Twitter|
+|---|---|---|
+|[![Contact](https://user-images.githubusercontent.com/92204097/233510772-1941fe0c-c501-4560-b184-4019a59c33a5.png)](https://linkedin.com/in/thaddeusthomas)|[![Email](https://user-images.githubusercontent.com/92204097/198655718-ab18cb79-c196-4c26-af00-6275e398c73b.png)](mailto:thomasthaddeus@cityuniversity.org)|[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F)](https://twitter.com/ThaddeusMaxima)|
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/thaddeus.r.thoma.png)](https://tryhackme.com/p/thaddeus.r.thoma)
 
@@ -40,8 +44,14 @@ LinkedIn|Email|Twitter
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thomasthaddeus)](https://github.com/thomasthaddeus) \
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thomasthaddeus&show_icons=true&theme=gruvbox&langs_count=10)](https://github.com/thomasthaddeus)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasthaddeus&layout=compact)](https://github.com/thomasthaddeus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasthaddeus&theme=gruvbox)](https://github.com/thomasthaddeus)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thomasthaddeus.visitor-badge)
+
+![](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats)
+
+[alg-1]: https://github.com/thomasthaddeus/Data-Structures-Algorithms "Data structures &algorithms repository"
+[ds-club]: "This is a link to a data science club"
+[cy-club]: https://github.com/thomasthaddeus/Cy-Club-Template "This is a link to our cybersecurity club"
