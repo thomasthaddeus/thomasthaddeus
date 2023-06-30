@@ -50,5 +50,5 @@
 ![Readme Stats](https://github-readme-stats.vercel.app/api/pin?username=thomasthaddeus&repo=neuralnetworks) ![Readme Stats](https://github-readme-stats.vercel.app/api/pin?username=thomasthaddeus&repo=.github)
 
 [alg-1]: https://github.com/thomasthaddeus/Data-Structures-Algorithms "Data structures &algorithms repository"
-[ds-club]: https://github.com/thomasthaddeus/Cy-Club-Template "This is a link to a data science club"
+[ds-club]: https://github.com/thomasthaddeus/DS-Club-Template "This is a link to a data science club"
 [cy-club]: https://github.com/thomasthaddeus/Cy-Club-Template "This is a link to our cybersecurity club"
