@@ -4,13 +4,17 @@
 ## 🔭 I'm currently working on
 
 - [Python Program](https://github.com/thomasthaddeus/TTS-project) that automates text to voice using Azure.
-- [Neural Networks Data Pipeline](https://github.com/thomasthaddeus/NeuralNetworks)
-- [Algorithms Repository][alg-1]
-- [DS Club][ds-club] <!-- This link is bad and should be fixed soon -->
-- [cybersecurity club][cy-club]
+- [Algorithms][alg-1]
+- [DS Club-template][ds-club]
+- [cy-club-template][cy-club]
 - <!--SQL Repository-->
 - <!--Python Collection of Scripts-->
 - <!--Docker Package for cybersecurity club website-->
+
+## Past Projects
+
+- [Neural Networks Data Pipeline](https://github.com/thomasthaddeus/NeuralNetworks)
+
 
 ## 👯 I’m looking to collaborate on 
 
@@ -27,7 +31,7 @@
 
 |LinkedIn|Email|Twitter|
 |---|---|---|
-|[![Contact](https://user-images.githubusercontent.com/92204097/233510772-1941fe0c-c501-4560-b184-4019a59c33a5.png)](https://linkedin.com/in/thaddeusthomas)|[![Email](https://user-images.githubusercontent.com/92204097/198655718-ab18cb79-c196-4c26-af00-6275e398c73b.png)](mailto:thomasthaddeus@cityuniversity.org)|[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F)](https://twitter.com/ThaddeusMaxima)|
+|[![Contact](https://github.com/thomasthaddeus/thomasthaddeus/assets/92204097/010f2552-77fd-488f-84eb-2531632fee04)](https://linkedin.com/in/thaddeusthomas)|[![image](https://github.com/thomasthaddeus/thomasthaddeus/assets/92204097/a9844a74-a895-4d9c-a040-d2cecab75cd7)](mailto:thaddeus.r.thomas@gmail.com)|[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F)](https://twitter.com/ThaddeusMaxima)|
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/thaddeus.r.thoma.png)](https://tryhackme.com/p/thaddeus.r.thoma)
 
