@@ -7,11 +7,13 @@
 - [Algorithms][alg-1]
 - [DS Club-template][ds-club]
 - [cy-club-template][cy-club]
-- <!--SQL Repository-->
+- [Chatbots](https://github.com/thomasthaddeus/creating_chat_bots)
+- [CTF - Writeups](http://apparellnstuff.me/CTF_WriteUps/)
+- [SQL Repository](https://github.com/thomasthaddeus/SQL_All-Brands-Welcome)
 - <!--Python Collection of Scripts-->
-- <!--Docker Package for cybersecurity club website-->
-
-## Past Projects
+- [Data Structures & Algorithms](https://github.com/thomasthaddeus/Data-Structures-Algorithms)
+ 
+## :: Past Projects
 
 - [Neural Networks Data Pipeline](https://github.com/thomasthaddeus/NeuralNetworks)
 
