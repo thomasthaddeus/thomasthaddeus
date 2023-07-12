@@ -1,29 +1,29 @@
 # Hi there 👋
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thomasthaddeus.visitor-badge)
 
-## 🔭 I'm currently working on
+## 🚧 I'm currently working on
 
-- [Python Program](https://github.com/thomasthaddeus/TTS-project) that automates text to voice using Azure.
-- [Algorithms][alg-1]
-- [DS Club-template][ds-club]
-- [cy-club-template][cy-club]
-- [Chatbots](https://github.com/thomasthaddeus/creating_chat_bots)
-- [CTF - Writeups](http://apparellnstuff.me/CTF_WriteUps/)
-- [SQL Repository](https://github.com/thomasthaddeus/SQL_All-Brands-Welcome)
-- <!--Python Collection of Scripts-->
-- [Data Structures & Algorithms](https://github.com/thomasthaddeus/Data-Structures-Algorithms)
+- 🤖 [Python Program for TTS](https://github.com/thomasthaddeus/TTS-project)
+- 👩🏻‍💻 [Algorithms][alg-1]
+- ✔️ [DS Club-template][ds-club]
+- ✔️ [cy-club-template][cy-club]
+- 💬 [Chatbots](https://github.com/thomasthaddeus/creating_chat_bots)
+- 🎏 [CTF - Writeups](http://apparellnstuff.me/CTF_WriteUps/)
+- 🖥️ [SQL Repository](https://github.com/thomasthaddeus/SQL_All-Brands-Welcome)
+- 🐍 <!--Python Collection of Scripts-->
+- 💿 [Data Structures & Algorithms](https://github.com/thomasthaddeus/Data-Structures-Algorithms)
  
-## :: Past Projects
+## 🔭 Past Projects
 
-- [Neural Networks Data Pipeline](https://github.com/thomasthaddeus/NeuralNetworks)
-
+- 💽🔧 [Neural Networks Data Pipeline](https://github.com/thomasthaddeus/NeuralNetworks)
 
 ## 👯 I’m looking to collaborate on 
 
 - @OpenSourceProjects
 - I welcome all pull requests and contributions
 
-## 🌱 I'm currently learning
+## ✍️ I'm currently learning
 
 - C# Packaging
 - pyQT
