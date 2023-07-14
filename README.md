@@ -5,18 +5,18 @@
 ## 🚧 I'm currently working on
 
 - 🤖 [Python Program for TTS](https://github.com/thomasthaddeus/TTS-project)
-- 👩🏻‍💻 [Algorithms][alg-1]
 - ✔️ [DS Club-template][ds-club]
 - ✔️ [cy-club-template][cy-club]
 - 💬 [Chatbots](https://github.com/thomasthaddeus/creating_chat_bots)
 - 🎏 [CTF - Writeups](http://apparellnstuff.me/CTF_WriteUps/)
 - 🖥️ [SQL Repository](https://github.com/thomasthaddeus/SQL_All-Brands-Welcome)
 - 🐍 <!--Python Collection of Scripts-->
-- 💿 [Data Structures & Algorithms](https://github.com/thomasthaddeus/Data-Structures-Algorithms)
  
 ## 🔭 Past Projects
 
 - 💽🔧 [Neural Networks Data Pipeline](https://github.com/thomasthaddeus/NeuralNetworks)
+- 👩🏻‍💻 [Algorithms][alg-1]
+- 💿 [Data Structures & Algorithms](https://github.com/thomasthaddeus/Data-Structures-Algorithms)
 
 ## 👯 I’m looking to collaborate on 
 
