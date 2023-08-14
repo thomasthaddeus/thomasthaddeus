@@ -80,8 +80,8 @@
 [twitter-2]: https://twitter.com/ThaddeusMaxima "Twitter"
 [email-2]: mailto:thaddeus.r.thomas@gmail.com "email"
 [linkedin-2]: https://linkedin.com/in/thaddeusthomas "LinkedIn"
-[thm]: https://tryhackme.com/p/thaddeus.r.thoma "TryHackMe"
-[thm-pic]: https://tryhackme-badges.s3.amazonaws.com/thaddeus.r.thoma.png "TryhackMe image"
+[thm]: ht tps://tryhackme.com/p/thaddeus.r.thoma "TryHackMe"
+[thm-pic]: https://tryhackme-badges.s3.amazonaws.com/thaddeus.r.thoma.png "TryHackMe"
 [chatbots]: https://github.com/thomasthaddeus/creating_chat_bots "Creating Chatbots"
 [ttspeech]: https://github.com/thomasthaddeus/TTS-project
 [writeups]: http://apparellnstuff.me/CTF_WriteUps/
