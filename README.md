@@ -59,9 +59,9 @@
 
 ## 📫 Contact Me:
 
-| LinkedIn                           | Email                      | Twitter is X                         |
-| ---------------------------------- | -------------------------- | ------------------------------------ |
-| [![Contact][linkedin]][linkedin-2] | [![image][email]][email-2] | [![Twitter URL][twitter]][twitter-2] |
+| LinkedIn                           | Email                      |
+| ---------------------------------- | -------------------------- |
+| [![Contact][linkedin]][linkedin-2] | [![image][email]][email-2] |
 
 
 [![TryHackMe][thm-pic]][thm]
