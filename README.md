@@ -14,19 +14,30 @@
 <details markdown="1"><summary><h2>📚 Libraries</h2></summary>
 
 ### Platforms & Communities
+
 ![anilist](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white) ![codeclimate](https://img.shields.io/badge/Code%20Climate-000000?style=for-the-badge&logo=Code%20Climate&logoColor=white) ![codenewbie](https://img.shields.io/badge/CodeNewbie-9013FE?style=for-the-badge&logo=CodeNewbie&logoColor=white) ![codersrank](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white) ![coderwall](https://img.shields.io/badge/Coderwall-3E8DCC?style=for-the-badge&logo=Coderwall&logoColor=white) ![deepnote](https://img.shields.io/badge/Deepnote-3793EF?style=for-the-badge&logo=Deepnote&logoColor=white) ![hackclub](https://img.shields.io/badge/Hack%20Club-EC3750?style=for-the-badge&logo=Hack%20Club&logoColor=white) ![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) ![topcoder](https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white) ![wandb](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
+
 ### Deep Learning & Machine Learning
+
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![pytorchlightning](https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white) ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=for-the-badge&logo=scikit-learn)
+
 ### Data Analysis
+
 ![Pandas](https://img.shields.io/badge/Pandas-05122A?style=for-the-badge&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-05122A?style=for-the-badge&logo=numpy) ![Scipy](https://img.shields.io/badge/Scipy-05122A?style=for-the-badge&logo=scipy) ![Ggplot2](https://img.shields.io/badge/-Ggplot2-05122A?style=for-the-badge&logo=ggplot2) ![Readr](https://img.shields.io/badge/-Readr-05122A?style=for-the-badge&logo=readr) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=for-the-badge&logo=matplotlib) ![Dplyr](https://img.shields.io/badge/Dplyr-05122A?style=for-the-badge&logo=dplyr)
+
 ### Web Development:
+
 ![NodeJS](https://img.shields.io/badge/NodeJS-05122A?style=for-the-badge&logo=node.js&logobackground=green)
 ![Flask](https://img.shields.io/badge/Flask-05122A?style=for-the-badge&logo=flask)
 ![Blazor](https://img.shields.io/badge/Blazor-05122A?style=for-the-badge&logo=blazor)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-05122A?style=for-the-badge&logo=express)
+
 ### Testing
+
 ![Pytest](https://img.shields.io/badge/Testing-Pytest-05122A?style=for-the-badge&logo=pytest) ![NUnit](https://img.shields.io/badge/Testing-NUnit-05122A?style=for-the-badge&logo=nunit) ![Sinon](https://img.shields.io/badge/Testing-Sinon-05122A?style=for-the-badge)
+
 ### Others:
+
 ![Wpf](https://img.shields.io/badge/Wpf-05122A?style=for-the-badge) ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-05122A?style=for-the-badge) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-05122A?style=for-the-badge)
 
 </details>
@@ -82,7 +93,7 @@
 [email-2]: mailto:thaddeus.r.thomas@gmail.com "email"
 [linkedin-2]: https://linkedin.com/in/thaddeusthomas "LinkedIn"
 [thm]: https://tryhackme.com/p/thaddeus.r.thoma "TryHackMe"
-[thm-pic]: https://tryhackme-badges.s3.amazonaws.com/thaddeus.r.thoma.png?3
+[thm-pic]: https://tryhackme-badges.s3.amazonaws.com/thaddeus.r.thoma.png "TryHackMe"
 [chatbots]: https://github.com/thomasthaddeus/creating_chat_bots "Creating Chatbots"
 [ttspeech]: https://github.com/thomasthaddeus/TTS-project
 [writeups]: http://apparellnstuff.me/CTF_WriteUps/
