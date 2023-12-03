@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![GitHub - Activity - Readme](https://github.com/thomasthaddeus/thomasthaddeus/actions/workflows/github-activity.yml/badge.svg)](https://github.com/thomasthaddeus/thomasthaddeus/actions/workflows/github-activity.yml)
+
 <details markdown="1"><summary><h2>💼 Technical Skills</h2></summary>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thomasthaddeus.visitor-badge) \
