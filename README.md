@@ -56,7 +56,7 @@
 
 ## 🚧 I'm currently working on
 
-[![TTS AI](https://img.shields.io/badge/Python-TTS-blue?style=for-the-badge&logo=python)][ttspeech] [![Chatbots](https://img.shields.io/badge/Chatbots-Development-red?style=for-the-badge&logo=chatbot)][chatbots] [![DS Club-template](https://img.shields.io/badge/DS-Club_template-green?style=for-the-badge)][ds-club] [![cy-club-template](https://img.shields.io/badge/Cybersecurity-Club_template-orange?style=for-the-badge)][cy-club] [![CTF - Writeups](https://img.shields.io/badge/CTF-Writeups-yellow?style=for-the-badge&logo=security)][writeups] [![SQL Repository](https://img.shields.io/badge/SQL-Repository-blue?style=for-the-badge&logo=sql)][sql] ![Python Collection of Scripts](https://img.shields.io/badge/Python-Scripts-purple?style=for-the-badge&logo=python) 
+![Gem Owner](https://img.shields.io/gem/u/deusstrong?style=for-the-badge&logo=rubygems)
 
 ## 🔭 Past Projects
 
@@ -68,7 +68,7 @@
 
 ## ✍️ I'm Currently Learning
 
-![NLP](https://img.shields.io/badge/Learning-NLP-blue?style=for-the-badge&logo=nlp) ![C# Packaging](https://img.shields.io/badge/Learning-C%23_Packaging-red?style=for-the-badge&logo=csharp) ![pyQT](https://img.shields.io/badge/Learning-pyQT-yellow?style=for-the-badge&logo=python) ![ruby-on-rails](https://img.shields.io/badge/Learning-Ruby_on_Rails-pink?style=for-the-badge&logo=ruby)
+![pyQT](https://img.shields.io/badge/Learning-pyQT-yellow?style=for-the-badge&logo=python)
 
 ## 📫 Contact Me:
 
