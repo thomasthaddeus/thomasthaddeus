@@ -62,9 +62,9 @@
 
 [![Neural Networks Data](https://img.shields.io/badge/NeuralNetworks-Data_Pipeline-cyan?style=for-the-badge&logo=neuralnet)][neural-networks] [![Algorithms](https://img.shields.io/badge/Algorithms-Development-pink?style=for-the-badge&logo=algorithm)][alg-1] [![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures-Algorithms-brown?style=for-the-badge&logo=data)][algorithms]
 
-## 👯 I'm Looking To Collaborate On
+<!-- ## 👯 I'm Looking To Collaborate On
 
-![OpenSourceProjects](https://img.shields.io/badge/OpenSource_Software-green?style=for-the-badge&logo=opensource) ![Pull Requests](https://img.shields.io/badge/GH-PullRequests-blue?style=for-the-badge&logo=github)
+![OpenSourceProjects](https://img.shields.io/badge/OpenSource_Software-green?style=for-the-badge&logo=opensource) ![Pull Requests](https://img.shields.io/badge/GH-PullRequests-blue?style=for-the-badge&logo=github)-->
 
 ## ✍️ I'm Currently Learning
 
@@ -81,9 +81,7 @@
 
 ## 📈 GitHub Stats
 
-[![thad's github stats](https://github-readme-stats.vercel.app/api?username=thomasthaddeus&show_icons=true&theme=gruvbox&langs_count=10)](https://github.com/thomasthaddeus)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasthaddeus&theme=gruvbox)](https://github.com/thomasthaddeus)
-![onedark](https://github-profile-trophy.vercel.app/?username=thomasthaddeus&theme=onedark)
+[![thad's github stats](https://github-readme-stats.vercel.app/api?username=thomasthaddeus&show_icons=true&theme=gruvbox&langs_count=10)](https://github.com/thomasthaddeus) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasthaddeus&theme=gruvbox)](https://github.com/thomasthaddeus) ![onedark](https://github-profile-trophy.vercel.app/?username=thomasthaddeus&theme=onedark) [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=thaddeusthomas)](https://github.com/thomasthaddeus/thomasthaddeus)
 
 [alg-1]: https://github.com/thomasthaddeus/Data-Structures-Algorithms "Data structures &algorithms repository"
 [ds-club]: https://github.com/thomasthaddeus/DS-Club-Template "This is a link to a template"
