@@ -77,34 +77,28 @@
 | [![Contact][linkedin]][linkedin-2] | [![image][email]][email-2] |
 [![TryHackMe][thm-pic]][thm]
 
-<a href="https://www.digitalocean.com/?refcode=a78dd81c66a0&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
-
 ## 📈 GitHub Stats
 
-[![thad's github stats](https://github-readme-stats.vercel.app/api?username=thomasthaddeus&show_icons=true&theme=gruvbox&langs_count=10)](https://github.com/thomasthaddeus) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasthaddeus&theme=gruvbox)](https://github.com/thomasthaddeus) ![onedark](https://github-profile-trophy.vercel.app/?username=thomasthaddeus&theme=onedark) [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=thaddeusthomas?)](https://github.com/thomasthaddeus/thomasthaddeus)
+[![thad's github stats](https://github-readme-stats.vercel.app/api?username=thomasthaddeus&show_icons=true&theme=gruvbox&langs_count=10)](https://github.com/thomasthaddeus) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasthaddeus&theme=gruvbox)](https://github.com/thomasthaddeus) ![onedark](https://github-profile-trophy.vercel.app/?username=thomasthaddeus&theme=onedark) [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=thaddeusthomas&layout=compact&langs_count=8&card_width=320)](https://github.com/thomasthaddeus/thomasthaddeus)
+
+<a href="https://www.digitalocean.com/?refcode=a78dd81c66a0&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+
 
 [alg-1]: https://github.com/thomasthaddeus/Data-Structures-Algorithms "Data structures &algorithms repository"
-[ds-club]: https://github.com/thomasthaddeus/DSClubTemplate "This is a link to a template"
+[algorithms]: https://github.com/thomasthaddeus/Data-Structures-Algorithms
+[chatbots]: https://github.com/thomasthaddeus/creating_chat_bots "Creating Chat Bots Link"
 [cy-club]: https://github.com/thomasthaddeus/CybersecurityClubTemplate "This is a link to our cybersecurity club"
-[linkedin]: https://github.com/thomasthaddeus/thomasthaddeus/assets/92204097/010f2552-77fd-488f-84eb-2531632fee04 "LinkedIn icon"
+[ds-club]: https://github.com/thomasthaddeus/DSClubTemplate "This is a link to a template"
 [email]: https://github.com/thomasthaddeus/thomasthaddeus/assets/92204097/a9844a74-a895-4d9c-a040-d2cecab75cd7 "Email icon"
-[twitter]: https://img.shields.io/twitter/url?style=forthebadge&url=https%3A%2F%2Ftwitter.com%2F
-[twitter-2]: https://twitter.com/ThaddeusMaxima "Twitter"
 [email-2]: mailto:thaddeus.r.thomas@gmail.com "email"
+[linkedin]: https://github.com/thomasthaddeus/thomasthaddeus/assets/92204097/010f2552-77fd-488f-84eb-2531632fee04 "LinkedIn icon"
 [linkedin-2]: https://linkedin.com/in/thaddeusthomas "LinkedIn"
+[neural-networks]: https://github.com/thomasthaddeus/NeuralNetworks
+[sql]: https://github.com/thomasthaddeus/SQL_All-Brands-Welcome
 [thm]: https://tryhackme.com/p/thaddeus.r.thoma "TryHackMe"
 [thm-pic]: https://tryhackme-badges.s3.amazonaws.com/thaddeus.r.thoma.png "TryHackMe"
 [chatbots]: https://github.com/thomasthaddeus/creating_chat_bots "Creating Chatbots"
 [ttspeech]: https://github.com/thomasthaddeus/TTS-project
-[writeups]: http://apparellnstuff.me/CTF_WriteUps/
-[sql]: https://github.com/thomasthaddeus/SQL_All-Brands-Welcome
-[neural-networks]: https://github.com/thomasthaddeus/NeuralNetworks
-[algorithms]: https://github.com/thomasthaddeus/Data-Structures-Algorithms
-[ttspeech]: https://github.com/thomasthaddeus/TTS-project
-[ds-club]: https://github.com/thomasthaddeus/DS-Club-Template
-[cy-club]: https://github.com/thomasthaddeus/Cy-Club-Template
-[chatbots]: https://github.com/thomasthaddeus/creating_chat_bots "Creating Chat Bots Link"
+[twitter]: https://img.shields.io/twitter/url?style=forthebadge&url=https%3A%2F%2Ftwitter.com%2F
+[twitter-2]: https://twitter.com/ThaddeusMaxima "Twitter"
 [writeups]: http://thomasthaddeus.com/CTF_WriteUps/
-[sql]: https://github.com/thomasthaddeus/SQL_All-Brands-Welcome
-[neural-networks]: https://github.com/thomasthaddeus/NeuralNetworks
-[algorithms]: https://github.com/thomasthaddeus/Data-Structures-Algorithms
