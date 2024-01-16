@@ -53,14 +53,16 @@
 ![NPM](https://img.shields.io/badge/Package%20Manager-npm-informational?style=for-the-badge&logo=npm&color=CB3837) ![Yarn](https://img.shields.io/badge/Package%20Manager-Yarn-informational?style=for-the-badge&logo=Yarn&color=2C8EBB) ![PyPi](https://img.shields.io/badge/Package%20Manager-PyPI-informational?style=for-the-badge&logo=pypi&color=3775A9) ![Composer](https://img.shields.io/badge/Package%20Manager-Composer-informational?style=for-the-badge&logo=composer&color=885630) ![Bundler](https://img.shields.io/badge/Package%20Manager-Bundler-informational?style=for-the-badge&logo=bundler&color=F16830) ![Gradle](https://img.shields.io/badge/Package%20Manager-Gradle-informational?style=for-the-badge&logo=gradle&color=02303A) ![Maven](https://img.shields.io/badge/Package%20Manager-Maven-informational?style=for-the-badge&logo=apache-maven&color=C71A36)
 
 </details>
-
-## 🚧 I'm currently working on
+<details markdown="1"><summary><h2>🚧 I'm Currently Working On</h2></summary>
 
 ![Gem Owner](https://img.shields.io/gem/u/deusstrong?style=for-the-badge&logo=rubygems)
 
-## 🔭 Past Projects
+</details>
+<details markdown="1"><summary><h2>🔭 Past Projects</h2></summary>
 
 [![Neural Networks Data](https://img.shields.io/badge/NeuralNetworks-Data_Pipeline-cyan?style=for-the-badge&logo=neuralnet)][neural-networks] [![Algorithms](https://img.shields.io/badge/Algorithms-Development-pink?style=for-the-badge&logo=algorithm)][alg-1] [![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures-Algorithms-brown?style=for-the-badge&logo=data)][algorithms]
+
+</details>
 
 <!-- ## 👯 I'm Looking To Collaborate On
 
@@ -72,14 +74,11 @@
 
 ## 📫 Contact Me:
 
-| LinkedIn                           | Email                      |
-| ---------------------------------- | -------------------------- |
-| [![Contact][linkedin]][linkedin-2] | [![image][email]][email-2] |
-[![TryHackMe][thm-pic]][thm]
+[![Contact][linkedin]][linkedin-2] [![image][email]][email-2] [![TryHackMe][thm-pic]][thm]
 
 ## 📈 GitHub Stats
 
-[![thad's github stats](https://github-readme-stats.vercel.app/api?username=thomasthaddeus&show_icons=true&theme=gruvbox&langs_count=10)](https://github.com/thomasthaddeus) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasthaddeus&theme=gruvbox)](https://github.com/thomasthaddeus) ![onedark](https://github-profile-trophy.vercel.app/?username=thomasthaddeus&theme=onedark) [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=thaddeusthomas&layout=compact&langs_count=8&card_width=320)](https://github.com/thomasthaddeus/thomasthaddeus)
+[![thad's github stats](https://github-readme-stats.vercel.app/api?username=thomasthaddeus&show_icons=true&theme=gruvbox&langs_count=10)](https://github.com/thomasthaddeus)  [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=thaddeusthomas&layout=compact&langs_count=8&card_width=320)](https://github.com/thomasthaddeus/thomasthaddeus) ![onedark](https://github-profile-trophy.vercel.app/?username=thomasthaddeus&theme=onedark&column=3) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasthaddeus&theme=gruvbox)](https://github.com/thomasthaddeus)
 
 <a href="https://www.digitalocean.com/?refcode=a78dd81c66a0&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
